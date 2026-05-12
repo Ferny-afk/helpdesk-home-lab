@@ -29,4 +29,4 @@ A hands-on home lab built to demonstrate core IT help desk skills including Acti
 - `Get-LockedAccounts.ps1` — Scans domain for locked out accounts
 
 ## Screenshots
-Screenshots of all lab activities are included in the `/screenshots` folder.
+Screenshots of all lab activities are included.
